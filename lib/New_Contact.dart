@@ -64,7 +64,7 @@ class _NewContactBottomSheetState extends State<NewContact> {
                       child: GestureDetector(
                         onTap: () async {
                           File? tempImage =
-                          await ImapePicker.galleryPicker();
+                          await ImagPicker.galleryPicker();
                           if (tempImage != null) {
                             pickedImage = tempImage;
                             setState(() {});
