@@ -1,4 +1,5 @@
 #Features
+
 Contact Creation: Users can add new contacts, including their name, phone number, and email address. The app appears to handle potential errors in input (e.g. non-numeric phone numbers).
 
 Contact Listing/Display: The app displays a list of contacts, likely with a preview of their information (name, phone number and email).
